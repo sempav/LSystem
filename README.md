@@ -2,6 +2,8 @@
 
 A 3D Lindenmayer system renderer.
 
+![Fractal plant](../screenshots/fp_lsystem.png?raw=true)
+
 ####Usage:
 `./main <config file> <data file>`
 ####Config format:
