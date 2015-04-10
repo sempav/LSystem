@@ -1,0 +1,11 @@
+F move 0.5
+f move nodraw 0.5
++ rotx 25
+- rotx -25
+X chill
+Y roty 0
+y roty 0
+Z rotz 0
+z rotz 0
+[ push
+] pop

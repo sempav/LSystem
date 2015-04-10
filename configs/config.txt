@@ -1,0 +1,7 @@
+F move 0.1
+[ push
+] pop
++ rotz 30
+- rotz -30
+> roty 30
+< roty -30
