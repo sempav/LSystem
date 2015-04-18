@@ -43,8 +43,11 @@ If more than one instruction is specified, instructions are executed sequentiall
 ```
 
 `axiom` is an arbitrary string that defines the initial state of the system.
-Production rules have the form: `<char> <substitute string>`
-Left side of a production rule must be a single char.
+
+Production rules `<ruleN>` have the following form:
+`<char> <substitute string>`
+
+Left side of a production rule must be a single char!
 
 ####Controls:
 `W`, `A`, `S`, `D` or `mouse` rotate camera around the origin.
