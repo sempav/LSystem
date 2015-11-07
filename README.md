@@ -1,6 +1,6 @@
 # LSystem
 
-A 3D Lindenmayer system renderer.
+A 3D [L-system](https://en.wikipedia.org/wiki/L-system) renderer.
 
 ![Fractal plant](../screenshots/fp_lsystem.png?raw=true)
 
