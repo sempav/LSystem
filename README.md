@@ -4,9 +4,9 @@ A 3D [L-system](https://en.wikipedia.org/wiki/L-system) renderer.
 
 ![Fractal plant](../screenshots/fp_lsystem.png?raw=true)
 
-####Usage:
+#### Usage:
 `./main <config file> <data file>`
-####Config format:
+#### Config format:
 `<character> <instruction> ...`
 
 Instruction can be one of the following:
@@ -33,7 +33,7 @@ Instruction can be one of the following:
 
 If more than one instruction is specified, instructions are executed sequentially.
 
-####Data format:
+#### Data format:
 ```
 <axiom>
 <number of iterations>
@@ -49,7 +49,7 @@ Production rules `<ruleN>` have the following form:
 
 Left side of a production rule must be a single char!
 
-####Controls:
+#### Controls:
 `W`, `A`, `S`, `D` or `mouse` rotate camera around the origin.
 
 `Q`, `E` move camera farther and closer to the origin.
